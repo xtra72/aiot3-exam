@@ -1,5 +1,4 @@
 # FBP 엔진 구현 시험
-## 2~3주차 기반 — Node / Connection / Message / Flow
 
 ---
 
@@ -7,7 +6,6 @@
 
 | 항목 | 내용 |
 |------|------|
-| 총점 | 175점 |
 | 언어 | Java 21 |
 | 빌드 | Maven (`mvn test`) |
 
